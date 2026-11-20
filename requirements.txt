@@ -1,0 +1,3 @@
+sympy>=1.12
+rich>=13.7.0
+plotext>=6.0.0
